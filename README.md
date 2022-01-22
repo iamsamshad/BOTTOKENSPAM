@@ -7,7 +7,7 @@
 
 ## U Can Use Down One Deploy Button Without Fork If Error Then Read Down One Message 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGENDBOYOP/BOTTOKENSPAM.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGENDP/BOTTOKENSPAM.git)
 
 - If Error Fork This repo
 
